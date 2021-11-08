@@ -4,4 +4,4 @@ In this project It is used:
  - DIO package for handling API requests.
  - Search bar.
  - Flutter offline package.
- - Animated text kit package far animating quotes.
+ - Animated text kit package for animating quotes.
